@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<ctype.h>
-#include<ncurses/ncurses.h>
+#include<ncurses.h>
 #define ILEZNAKOW 10
 int cx=0,cy=0,zn=1,row,col,tryb=1;
 char cs[]={'o',' ','|','\\','/','_','-','^','V','U'};
